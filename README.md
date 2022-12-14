@@ -4,6 +4,6 @@
  🌱 Aprendendo<img align="center" alt="HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><br>   
 <div align="center">
   <a href="https://github.com/IM-Silva">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=IM-Silva&show_icons=true&theme=dark&hide=issues,contribs"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IM-Silva&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=IM-Silva&show_icons=true&theme=dark&hide=issues,contribs"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IM-Silva&layout=compact&langs_count=7&theme=dark"/>
 </div>
