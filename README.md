@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e75c2c&height=100&section=header"/>
 
 <font color="#ff9900">Iasmin</font>
 
