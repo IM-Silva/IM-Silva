@@ -26,6 +26,10 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
-![Snake Animation](IM-Silva)
+<div align="center">
+
+![Snake Animation](https://github.com/IM-Silva/IM-Silva)&nbsp;
+
+</div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e75c2c&height=100&section=footer"/>
