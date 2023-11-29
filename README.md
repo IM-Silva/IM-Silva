@@ -29,7 +29,8 @@
 
 
 
-![Snake animation](https://github.com/yourusername/IM-Silva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joeadamo/github-readme-streak-stats/blob/master/output/github-contribution-grid-snake.svg)
+
 
 
 
