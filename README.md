@@ -2,7 +2,7 @@
 
 # Olá! Eu sou Iasmin Silva | Bem-Vindo(a) ao meu perfil 👋
 
-#### 📘 &nbsp;&nbsp;&nbsp; Adquiri conhecimentos substanciais que englobam desde os conceitos fundamentais até aspectos mais avançados, no âmbito da lógica de programação, abordando tanto a linguagem Portugol quanto sua aplicação prática em ![Java](https://img.shields.io/badge/☕-Java-0D1117?style=for-the-badge&logo=java&logoColor=007396 | width=50 | height=5)
+#### 📘 &nbsp;&nbsp;&nbsp; Adquiri conhecimentos substanciais que englobam desde os conceitos fundamentais até aspectos mais avançados, no âmbito da lógica de programação, abordando tanto a linguagem Portugol quanto sua aplicação prática em [![Java](https://img.shields.io/badge/☕-Java-0D1117?style=for-the-badge&logo=java&logoColor=007396 | width=50 | height=5)]
    
 #### 📘 &nbsp;&nbsp;&nbsp; Além disso, obtive proficiência em tecnologias de front-end, incluindo ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ,  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp; e ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;, enriquecendo ainda mais meu conjunto de habilidades.
 
