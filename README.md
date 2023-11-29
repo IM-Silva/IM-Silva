@@ -29,6 +29,8 @@
 
 
 ![Snake animation](https://github.com/yourusername/IM-Silva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yourusername/IM-Silva/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e75c2c&height=100&section=footer"/>
