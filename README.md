@@ -1,12 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e75c2c&height=100&section=header"/>
 
- # Olá! Eu sou Iasmin Silva | Bem-Vindo(a) ao meu perfil 👋
+# Olá! Eu sou Iasmin Silva | Bem-Vindo(a) ao meu perfil 👋
+
+## 💻 ☑️ Adquiri conhecimentos substanciais que englobam desde os conceitos fundamentais até aspectos mais avançados, no âmbito da lógica de programação, abordando tanto a linguagem Portugol quanto sua aplicação prática em ![Java](https://img.shields.io/badge/☕-Java-0D1117?style=for-the-badge&logo=java&logoColor=007396)&nbsp;
    
-#### ✏  Atualmente já estou familiarizada com <img align="center" alt="html5 logo" height="35" width="30" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" /> & <img align="center" alt="css3 logo" height="30" width="28" src="https://logospng.org/download/css-3/logo-css-3-768.png" />
-
-#### 🌱 dominando ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=007396)&nbsp;
-
-
+## 💻 ☑️ Além disso, obtive proficiência em tecnologias de front-end, incluindo ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ,  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp; e ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;, enriquecendo ainda mais meu conjunto de habilidades.
 
 <div align="center">
   
@@ -15,15 +13,15 @@
   
 </div>
 
-### FERRAMENTAS<br>
+### 💻  FERRAMENTAS<br>
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=blue)&nbsp;
 
-### LINGUAGENS QUE QUERO APRENDER<BR>
+### 🚀 LINGUAGENS QUE QUERO APRENDER<BR>
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B&logoWidth=20)&nbsp;
 
-### TECNOLOGIAS QUE QUERO APRENDER<BR>
+### 🚀 TECNOLOGIAS QUE QUERO APRENDER<BR>
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
