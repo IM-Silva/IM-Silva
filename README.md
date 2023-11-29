@@ -28,7 +28,7 @@
 ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 
-![Snake animation](https://github.com/IM-Silva/IM-Silva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yourusername/IM-Silva/blob/output/github-contribution-grid-snake.svg)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e75c2c&height=100&section=footer"/>
