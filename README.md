@@ -4,7 +4,8 @@
    
 #### ✏  Atualmente já estou familiarizada com <img align="center" alt="html5 logo" height="35" width="30" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" /> & <img align="center" alt="css3 logo" height="30" width="28" src="https://logospng.org/download/css-3/logo-css-3-768.png" />
 
-#### 🌱 Aprendendo<img align="center" alt="JavaScript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> & <img align="center" alt="TypeScript" width="30" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" />
+#### 🌱 dominando <img align="center" alt="Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
 
 <div align="center">
   
